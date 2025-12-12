@@ -10,7 +10,6 @@ With a **Master's in Applied Analytics** and a foundation in engineering, I spec
 
 I've led digital transformation initiatives across manufacturing and beyond—including deploying **ML-powered automation systems** that saved **1,000+ hours** of manual work. My approach combines deep technical expertise with business acumen to deliver measurable impact.
 
-- **Current Role**: Founder at Bluu Labs
 - **Education**: Master's in Applied Analytics
 - **Focus Areas**: ML Automation, Computer Vision, Medical Imaging, Business Process Optimization
 - **Languages**: Spanish (Native), English (C1), German (B1)
