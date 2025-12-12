@@ -73,9 +73,3 @@ I've led digital transformation initiatives across manufacturing and beyond—in
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nicolaycz/nicolaycz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
