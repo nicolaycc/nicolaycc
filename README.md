@@ -17,11 +17,11 @@ I've led digital transformation initiatives across manufacturing and beyond—in
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/72669415?v=4"  />
+<img align="center" height="150" src="https://avatars.githubusercontent.com/u/72669415?v=4"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="display: inline-block; margin-right: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" style="display: inline-block; margin-right: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="display: inline-block; margin-right: 12px;" />
